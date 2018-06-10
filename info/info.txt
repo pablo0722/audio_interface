@@ -1,0 +1,14 @@
+LINE:
+    - Balanceada
+    - Alta tension
+    - Impedancia de entrada (a interfaz): 10K
+
+INST:
+    - Desbalanceada
+    - Media tension
+    - Impedancia de entrada (a interfaz): 2K
+
+MIC:
+    - Balanceada
+    - Baja tension
+    - Impedancia de entrada (a interfaz): 2K
