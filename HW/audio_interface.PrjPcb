@@ -106,23 +106,6 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document5]
-DocumentPath=Integrated_Library\Pcb_Comunes_SMD.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document6]
 DocumentPath=Integrated_Library\Pcb_Conectores.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -139,7 +122,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document7]
+[Document6]
 DocumentPath=Integrated_Library\Sch_Bridges.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -156,24 +139,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document8]
-DocumentPath=Integrated_Library\Sch_Comunes.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document9]
+[Document7]
 DocumentPath=Integrated_Library\Sch_Conectores.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document10]
+[Document8]
 DocumentPath=stm32.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -207,7 +173,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=QAMRLIIV
 
-[Document11]
+[Document9]
 DocumentPath=filtro_in.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -224,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NJWYSBIT
 
-[Document12]
+[Document10]
 DocumentPath=filtro_out.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -241,7 +207,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CHGGLJWR
 
-[Document13]
+[Document11]
 DocumentPath=fuente.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -258,7 +224,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TUQTUISA
 
-[Document14]
+[Document12]
 DocumentPath=usb_2_0.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -275,7 +241,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AXVFTLIM
 
-[Document15]
+[Document13]
 DocumentPath=potenciometros.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -292,7 +258,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EPKHCAIA
 
-[Document16]
+[Document14]
 DocumentPath=Integrated_Library\sch_STM32F401RB.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -309,7 +275,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OMWAGOMS
 
-[Document17]
+[Document15]
 DocumentPath=Integrated_Library\pcb_STM32F401RB.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -326,7 +292,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MJKXCAYA
 
-[Document18]
+[Document16]
 DocumentPath=codec.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -343,7 +309,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FWURPQPL
 
-[Document19]
+[Document17]
 DocumentPath=Integrated_Library\pcb_codec_pcm3060.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -360,7 +326,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MJKXCAYA
 
-[Document20]
+[Document18]
 DocumentPath=Integrated_Library\sch_codec_pcm3060.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -376,6 +342,57 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=OTYXYQDP
+
+[Document19]
+DocumentPath=Integrated_Library\sch_comunes.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YGFXUMID
+
+[Document20]
+DocumentPath=Integrated_Library\pcb_comunes_smd.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UWLRWLON
+
+[Document21]
+DocumentPath=Integrated_Library\input_output.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UVHYDBKM
 
 [Configuration1]
 Name=Sources
