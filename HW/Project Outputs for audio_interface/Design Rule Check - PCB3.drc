@@ -1,0 +1,132 @@
+Protel Design System Design Rule Check
+PCB File : D:\Gits\Materias UTN\PCB\audio_interface\HW\PCB3.PcbDoc
+Date     : 2/8/2019
+Time     : 12:44:53
+
+WARNING: Unplated multi-layer pad(s) detected
+   Pad J1-5(668.307mil,7577.074mil) on Multi-Layer on Net DGND
+   Pad J1-6(231.299mil,7577.074mil) on Multi-Layer on Net DGND
+
+Processing Rule : Clearance Constraint (Gap=8mil) (All),(All)
+   Violation between Clearance Constraint: (0.823mil < 8mil) Between Pad B1-1(5804.626mil,5816.929mil) on Top Layer And Track (5811.586mil,5809.969mil)(5819.39mil,5802.165mil) on Top Layer 
+   Violation between Clearance Constraint: (7.763mil < 8mil) Between Pad B1-2(5811.586mil,5809.969mil) on Top Layer And Track (5734.874mil,5886.681mil)(5797.244mil,5824.311mil) on Top Layer 
+   Violation between Clearance Constraint: (0.823mil < 8mil) Between Pad B1-2(5811.586mil,5809.969mil) on Top Layer And Track (5797.244mil,5824.311mil)(5804.626mil,5816.929mil) on Top Layer 
+   Violation between Clearance Constraint: (1.843mil < 8mil) Between Track (5797.244mil,5824.311mil)(5804.626mil,5816.929mil) on Top Layer And Track (5811.586mil,5809.969mil)(5819.39mil,5802.165mil) on Top Layer 
+Rule Violations :4
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Short-Circuit Constraint: Between Pad B1-1(5804.626mil,5816.929mil) on Top Layer And Pad B1-2(5811.586mil,5809.969mil) on Top Layer Location : [X = 5808.106mil][Y = 5813.449mil]
+Rule Violations :1
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=5mil) (Max=100mil) (Preferred=10mil) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=4mil) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Rule Violations :0
+
+Processing Rule : Room U_input_output_3 (Bounding Region = (2091.535mil, 19.685mil, 3115.157mil, 2677.165mil) (InComponentClass('U_input_output_3'))
+Rule Violations :0
+
+Processing Rule : Room U_input_output_4 (Bounding Region = (3122.539mil, 19.685mil, 4146.161mil, 2677.165mil) (InComponentClass('U_input_output_4'))
+Rule Violations :0
+
+Processing Rule : Room U_input_output_5 (Bounding Region = (4153.543mil, 19.685mil, 5177.165mil, 2677.165mil) (InComponentClass('U_input_output_5'))
+Rule Violations :0
+
+Processing Rule : Room U_att_17db_6 (Bounding Region = (5179.626mil, 1407.48mil, 6198.327mil, 2022.638mil) (InComponentClass('U_att_17db_6'))
+Rule Violations :0
+
+Processing Rule : Room U_att_17db_3 (Bounding Region = (2086.614mil, 1407.48mil, 3105.315mil, 2022.638mil) (InComponentClass('U_att_17db_3'))
+Rule Violations :0
+
+Processing Rule : Room U_att_17db_4 (Bounding Region = (3117.618mil, 1407.48mil, 4136.319mil, 2022.638mil) (InComponentClass('U_att_17db_4'))
+Rule Violations :0
+
+Processing Rule : Room U_att_17db_5 (Bounding Region = (4148.622mil, 1407.48mil, 5167.323mil, 2022.638mil) (InComponentClass('U_att_17db_5'))
+Rule Violations :0
+
+Processing Rule : Room U_input_output_2 (Bounding Region = (1060.532mil, 19.685mil, 2084.153mil, 2677.165mil) (InComponentClass('U_input_output_2'))
+Rule Violations :0
+
+Processing Rule : Room U_phantom_power_enabler_2 (Bounding Region = (1284.449mil, 1636.319mil, 2084.153mil, 2689.468mil) (InComponentClass('U_phantom_power_enabler_2'))
+Rule Violations :0
+
+Processing Rule : Room U_phantom_power_enabler_3 (Bounding Region = (2315.453mil, 1636.319mil, 3115.157mil, 2689.468mil) (InComponentClass('U_phantom_power_enabler_3'))
+Rule Violations :0
+
+Processing Rule : Room U_phantom_power_enabler_6 (Bounding Region = (5408.465mil, 1636.319mil, 6208.169mil, 2689.468mil) (InComponentClass('U_phantom_power_enabler_6'))
+Rule Violations :0
+
+Processing Rule : Room U_input_output_6 (Bounding Region = (5184.547mil, 19.685mil, 6208.169mil, 2677.165mil) (InComponentClass('U_input_output_6'))
+Rule Violations :0
+
+Processing Rule : Room U_phantom_power_enabler_4 (Bounding Region = (3346.457mil, 1636.319mil, 4146.161mil, 2689.468mil) (InComponentClass('U_phantom_power_enabler_4'))
+Rule Violations :0
+
+Processing Rule : Room U_phantom_power_enabler_5 (Bounding Region = (4377.461mil, 1636.319mil, 5177.165mil, 2689.468mil) (InComponentClass('U_phantom_power_enabler_5'))
+Rule Violations :0
+
+Processing Rule : Room U_fuente (Bounding Region = (22.146mil, 6200.787mil, 1262.303mil, 6747.047mil) (InComponentClass('U_fuente'))
+Rule Violations :0
+
+Processing Rule : Room U_input_output_1 (Bounding Region = (29.528mil, 19.685mil, 1053.149mil, 2677.165mil) (InComponentClass('U_input_output_1'))
+Rule Violations :0
+
+Processing Rule : Room U_output_jack (Bounding Region = (3137.301mil, 6897.144mil, 6222.931mil, 7610.726mil) (InComponentClass('U_output_jack'))
+Rule Violations :0
+
+Processing Rule : Room U_att_17db_1 (Bounding Region = (24.606mil, 1407.48mil, 1043.307mil, 2022.638mil) (InComponentClass('U_att_17db_1'))
+Rule Violations :0
+
+Processing Rule : Room U_bal2un_1 (Bounding Region = (150.098mil, 2993.5mil, 3742.618mil, 4089.567mil) (InComponentClass('U_bal2un_1'))
+Rule Violations :0
+
+Processing Rule : Room U_bal2un_2 (Bounding Region = (4158.465mil, 2944.39mil, 5831.693mil, 3885.335mil) (InComponentClass('U_bal2un_2'))
+Rule Violations :0
+
+Processing Rule : Room U_phantom_power (Bounding Region = (5837.967mil, 2942.913mil, 6236.496mil, 3917.903mil) (InComponentClass('U_phantom_power'))
+Rule Violations :0
+
+Processing Rule : Room U_usb_2_0 (Bounding Region = (19.685mil, 6821.661mil, 1377.953mil, 7611.523mil) (InComponentClass('U_usb_2_0'))
+Rule Violations :0
+
+Processing Rule : Room U_input (Bounding Region = (147.638mil, 1441.929mil, 6254.921mil, 2236.713mil) (InComponentClass('U_input'))
+Rule Violations :0
+
+Processing Rule : Room U_att_17db_2 (Bounding Region = (1055.61mil, 1407.48mil, 2074.311mil, 2022.638mil) (InComponentClass('U_att_17db_2'))
+Rule Violations :0
+
+Processing Rule : Room U_phantom_power_enabler_1 (Bounding Region = (253.445mil, 1636.319mil, 1053.15mil, 2689.468mil) (InComponentClass('U_phantom_power_enabler_1'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Rule Violations :0
+
+
+Violations Detected : 5
+Waived Violations : 0
+Time Elapsed        : 00:00:03

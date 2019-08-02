@@ -734,6 +734,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RBHJYXKL
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for audio_interface\Design Rule Check - PCB3.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
